@@ -1,0 +1,5 @@
+user.db
+config.py
+/venv
+/pycache
+requiremens.txt
